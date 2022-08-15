@@ -6,6 +6,5 @@ you can also find me in
 - [personal website](https://www.masashisode.com/)
 - [CV (PDF format)](https://www.masashisode.com/_pages/CV_Masashi_Sode_compressed.pdf)
 
-![Masashi Sode's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasashiSode&count_private=true&show_icons=true&theme=calm)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasashiSode&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MasashiSode&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="MasashiSode's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasashiSode&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
