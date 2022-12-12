@@ -1,4 +1,4 @@
-Hi, welcome to my Github.
+Hi, welcome to my GitHub.
 
 you can also find me in
 
